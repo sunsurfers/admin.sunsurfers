@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jpacontainer-addressbook-demo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jpacontainer-addressbook-demo-3.2.0.war">
+      <element id="artifact" artifact-name="jpacontainer-addressbook-demo:war exploded" />
+    </root>
+  </artifact>
+</component>

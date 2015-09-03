@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="addressbook/EclipseLink" uuid="4b765e65-4f5f-4f03-8c9a-f25b7bd3682d">
+      <user-name>sa</user-name>
+      <user-password>dfd9dfcb</user-password>
+      <schema-pattern>JPACONTAINERADDRESSBOOKH2DB.PUBLIC</schema-pattern>
+      <default-schemas>JPACONTAINERADDRESSBOOKH2DB.PUBLIC</default-schemas>
+    </data-source>
+  </component>
+</project>
